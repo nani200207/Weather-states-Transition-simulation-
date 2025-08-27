@@ -1,4 +1,4 @@
-from assignment2 import WeatherSimulation
+from Weather States Transition import WeatherSimulation
 import numpy as np
 import sys
 import pylint as pl
